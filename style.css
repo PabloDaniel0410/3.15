@@ -1,0 +1,25 @@
+input.naranja{
+     border: 2px solid #ff6200;  
+    color: white;
+    background-color: #ff6200;
+    width: 400px;
+}
+input.verde{
+    border:4px #0a8020 solid;
+    background-color: #0a8020;
+    width: 400px;
+    color: white;
+}
+input.formulario2{
+    position: relative;
+    width: 450px;
+    height: 50px;
+    border-color: black 10px;
+
+}
+input.pequeños{
+    position: relative;
+    width: 220px;
+    height: 50px;
+    border-color: black 10px;
+}
